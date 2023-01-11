@@ -1,0 +1,1 @@
+{"id":"9d92e07f-7d41-45f0-842b-bb3cd70ae302","space":14603,"runtime":"python3.9","name":"smtp","path":"d0u7iq","project":"c05ucszo","account":"144798365827","region":"ap-southeast-1","deps":["fastapi"],"envs":null,"public":false,"log_level":"off","cron":""}
